@@ -1,0 +1,2 @@
+Step 14: http://localhost:8088/cluster/apps
+  http://localhost:50070/dfshealth.html#tab-overview
