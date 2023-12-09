@@ -1,0 +1,33 @@
+Pract 1: Hadoop installation,configiration and Hdfs (namenode,datanode)
+  use all commands of hdfs
+Pract 2: Implement word count program using mapreduce
+Pract 3: MapReduce with weather dataset 
+  use weather_dataset and apply mapreduce same as wordcount example
+Pract 4: Store the data into the Nosql db hbase/MongoDb 
+  used MongoDb -> show the command for CRUD operation 
+  also take the screenshot of UI when creating the db and collection/ CRUD
+Pract 5: Implement CRUD using PIG 
+  https://www.geeksforgeeks.org/apache-pig-installation-on-windows-and-case-study/
+Pract 6: Configure the hive and implement the hive
+ use data from my github repository 
+Pract 7: Write a code to illustrate the Jaql 
+  code take from my github and just explain -> dont do hands on 
+Pract 8: Classification techniques
+  a. decision tree (supervised) -> use my github code with output/ explanation(www.geeksforgeeks.org) 
+  b. Svm classification (supervised) -> use github code load_digit(), use same output.
+Pract 9: Regression model -> done 
+Pract 10: Solve the following 
+  a. Classification model :
+     1. What is classification model 
+     2. Install relevent packages for classification (pandas,sklearn,matplotlib etc..)
+     3. Choose one classification algo.. ( decision tree)
+     4. Evaluate the perform (perform decision trre same as in practical 8a.)
+  b. Clustering model : 
+     1. What is Unsupervised learning
+     2. What is clustering model 
+     3. K-mean algorith explanation,relevent packages to get install  numpy as nm    
+    matplotlib.pyplot as mtp    
+    pandas as pd 
+    4. Show the small demo.
+     https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning    
+    
